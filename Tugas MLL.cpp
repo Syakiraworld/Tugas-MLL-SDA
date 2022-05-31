@@ -95,11 +95,11 @@ int main()
               do
               {
                      system("cls");
-                     puts(" Cafe Matchaki ");
+                     puts(" Cafe Kini ");
                      puts(" ====================\n");
                      puts(" 1. Lihat List Pesanan");
-                     puts(" 2. Tambah Pesanan");
-                     puts(" 3. Ambil Pesanan");
+                     puts(" 2. Add Pesanan");
+                     puts(" 3. Take Pesanan");
                      puts(" 4. keluar");
                      printf(" >> Masukkan pilihan: ");
                      scanf("%d", &pilih); fflush(stdin);
